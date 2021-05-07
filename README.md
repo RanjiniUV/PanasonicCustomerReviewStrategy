@@ -16,7 +16,7 @@ After running the linear regression for the above model with the target variable
   
 While investigating further, we derive the variable coefficients of the user rating categories and we get the below details.
  
-![Screenshot](/Images/VariableCoefficient.png?raw=true "VC1")
+![Screenshot](/Images/VariableCoefficient1.png?raw=true "VC1")
 
 Video Quality, Number of Features, Ease of Setup have higher positive coefficient indicating their maximum impact on the target variable.
 Hence, as a recommendation to the Panasonic team, we suggest investing on the user rating categories in the below order which would be in the best interest of the company.
